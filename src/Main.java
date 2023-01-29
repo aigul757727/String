@@ -20,6 +20,7 @@ public class Main {
         String fullName = "Ivanov Ivan Ivanovich";
         System.out.println("Данные ФИО сотрудника для заполнения отчета - " + fullName.toUpperCase());
     }
+
     public static void task3() {
         System.out.println("Задача 3");
         String fullName = "Иванов Семён Семёнович";
